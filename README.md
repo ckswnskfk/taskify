@@ -94,7 +94,7 @@ taskify
 1. Clone the repository
 
 ```bash
-git clone https://github.com/codeit-fe2-2/taskify.git
+git clone https://github.com/ckswnskfk/taskify.git
 ```
 
 2. Install dependencies
@@ -106,7 +106,7 @@ npm install
 3. Start the development server
 
 ```bash
-npm start dev
+npm run dev
 ```
 
 4. Open the project in your browser
