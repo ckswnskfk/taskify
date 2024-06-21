@@ -114,3 +114,7 @@ npm run dev
 ```bash
 http://localhost:3000
 ```
+
+# Test account
+ID: test@codeit.com
+PW: codeit123
